@@ -50,6 +50,13 @@ This repository showcases a cloud security assessment conducted for an unnamed U
 
 ---
 
+## 📋 Deliverables
+
+- [Cloud Audit Checklist (XLSX)](templates/cloud-audit-checklist.xlsx)
+- [Remediation Roadmap (XLSX)](templates/remediation-roadmap-template.xlsx)
+- [Sample Cloud Security Report (PDF)](templates/sample-cloud-security-report.pdf)
+
+
 ## 💡 Use This For
 
 - Government or private-sector compliance projects
